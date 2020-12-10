@@ -1,0 +1,10 @@
+COMMAND TO LOAD THE PROJECT FIRST TIME IN GIT HUB
+
+GOT TO PROJECT DIRECTORY
+1. rd .git /s/q
+2. git init
+3. git add .
+4. git commit -m "my first commit"
+5. git remote add <origin> "<url>"  //orgin- is name here. Put any unique name.
+6. git push -u origin master
+7. git commit
